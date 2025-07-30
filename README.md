@@ -1,4 +1,3 @@
-# Anxiety_Prediction_YuonoDwi
 # 🧠 Anxiety Prediction App - Yuono Dwi
 
 Welcome to the **Social Anxiety Prediction App**, an interactive web application built using **Streamlit**. This app helps explore mental health profiles and predict anxiety levels based on individual lifestyle, health, and demographic factors.
